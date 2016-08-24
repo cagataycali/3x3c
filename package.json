@@ -1,0 +1,29 @@
+{
+  "name": "3x3c",
+  "version": "1.0.0",
+  "description": "Execute your commands in shell, written nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cagataycali/3x3c.git"
+  },
+  "keywords": [
+    "Exec",
+    "nodejs",
+    "exec",
+    "shell",
+    "commands"
+  ],
+  "author": "Çağatay Çalı",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cagataycali/3x3c/issues"
+  },
+  "homepage": "https://github.com/cagataycali/3x3c#readme",
+  "dependencies": {
+    "async": "^2.0.1"
+  }
+}
