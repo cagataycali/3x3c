@@ -1,6 +1,6 @@
 {
   "name": "3x3c",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Execute your commands in shell, written nodejs",
   "main": "index.js",
   "scripts": {
