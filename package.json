@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/cagataycali/3x3c#readme",
   "dependencies": {
-    "async": "^2.0.1",
+    "async": "^3.2.2",
     "update-notifier": "^1.0.2"
   }
 }
